@@ -32,4 +32,5 @@ wire reset = ~rst_n;
             ou_out[3:0] <= ui_in[7:4] + ui_in[3:0];
             ou_out[7:4] <= 0;
         end 
+    end
 endmodule
