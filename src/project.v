@@ -22,6 +22,6 @@ module tt_um_asiclab_example (
   assign uio_oe  = 0;
 
   // List all unused inputs to prevent warnings
-  wire _unused = &{ena, clk, rst_n, 1'b0};
+  reg _unused = &{ena, clk, rst_n, 1'b0};
 
 endmodule
