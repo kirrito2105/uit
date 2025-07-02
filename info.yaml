@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Ag cung nhung nguoi ban"      # Project title
+  title:        "Ag_cung_nhung_nguoi_ban"      # Project title
   author:       "UIT"      # Your name
   discord:      "N02"      # Your discord username (optional)
   description:  "Mach vi tinh"      # One line description of what your project does
