@@ -2,8 +2,8 @@
 project:
   title:        "Ag cung nhung nguoi ban"      # Project title
   author:       "UIT"      # Your name
-  discord:      ""      # Your discord username (optional)
-  description:  ""      # One line description of what your project does
+  discord:      "N02"      # Your discord username (optional)
+  description:  "Mach vi tinh"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     50       # Clock frequency in Hz (or 0 if not applicable)
 
